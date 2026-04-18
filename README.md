@@ -117,4 +117,23 @@ Step 6 - Run the project
     ☐ Running from inside signal_detector/ folder
     ☐ python main.py runs without errors
     ☐ outputs/signals.json is generated
-            
+
+### The Big Picture For This Task ###
+
+      config.py          → defines all data (competitors, keywords, pain points)
+           ↓
+      fetchers/          → collect raw posts from internet (no analysis)
+           ↓
+      utils/sentiment.py → analyze the raw text (find keywords & pain points)
+      utils/scorer.py    → give a score to each signal
+           ↓
+      signals/competitor_grievance.py → orchestrates ALL of the above steps
+           ↓
+      utils/output.py    → save final results
+           ↑
+      main.py            → starts everything, calls grievance detector & output
+
+### Sample Output ###
+
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/60577bcb-a66b-4998-aef7-1b7a511ab07d" />
+
