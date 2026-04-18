@@ -1,0 +1,8 @@
+{
+  "competitors": ["HackerRank", "HireVue", "Codility"],
+  "sources": [
+    "https://www.reddit.com/r/cscareerquestions",
+    "https://news.ycombinator.com/rss"
+  ],
+  "note": "Sample input — competitors are also defined in config.py"
+}
