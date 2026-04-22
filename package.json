@@ -1,0 +1,17 @@
+{
+  "name": "competitor-grievance-signal-detector-main",
+  "version": "1.0.0",
+  "description": "Step 1 — Prerequisites\r First, make sure you have Python installed. Open your terminal/command prompt and check:\r       $python --version\r   You need Python 3.8+. If not installed, download from python.org.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "serverless": "^3.40.0",
+    "serverless-offline": "^14.5.0"
+  }
+}

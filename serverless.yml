@@ -1,0 +1,64 @@
+service: signal-detector
+
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: python3.9
+  region: us-east-1
+  environment:
+    PYTHONPATH: "."
+
+plugins:
+  - serverless-offline
+
+custom:
+  serverless-offline:
+    httpPort: 4000
+    noPrependStageInUrl: true
+
+functions:
+
+  # Function 1 — Fetch signals from Reddit
+  fetchReddit:
+    handler: handler.fetch_reddit
+    events:
+      - http:
+          path: /fetch/reddit
+          method: post
+    timeout: 30
+
+  # Function 2 — Fetch signals from RSS feeds
+  fetchRSS:
+    handler: handler.fetch_rss
+    events:
+      - http:
+          path: /fetch/rss
+          method: post
+    timeout: 30
+
+  # Function 3 — Fetch signals from DuckDuckGo
+  fetchDDG:
+    handler: handler.fetch_ddg
+    events:
+      - http:
+          path: /fetch/ddg
+          method: post
+    timeout: 30
+
+  # Function 4 — Run full detection pipeline
+  detectSignals:
+    handler: handler.detect_signals
+    events:
+      - http:
+          path: /detect
+          method: post
+    timeout: 60
+
+  # Function 5 — Health check
+  health:
+    handler: handler.health_check
+    events:
+      - http:
+          path: /health
+          method: get
