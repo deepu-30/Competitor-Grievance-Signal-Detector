@@ -137,3 +137,55 @@ Step 6 - Run the project
 
 <img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/60577bcb-a66b-4998-aef7-1b7a511ab07d" />
 
+
+## Serverless Implementation ##
+
+Normal Python app:     python main.py  (runs everything together)
+
+Serverless style:      Each function is isolated & invoked independently
+                       handler.py → function1, function2, function3...
+                       serverless.yml → defines all functions & config
+
+### Create these new files ###
+
+signal_detector/
+
+├── serverless.yml              ← NEW: defines all functions
+
+├── handler.py                  ← NEW: lambda function entry points
+
+├── requirements.txt            ← NEW: python dependencies
+
+├── package.json 
+
+### Install the serverless framework ###
+
+`serverless --version`
+`npm install -g serverless`
+
+For error No version found for 3 then run:
+ `npm install serverless@^3 --save-dev
+ npx serverless offline`
+
+### Output ###
+
+Run server on one cmd:
+
+`npx serverless offline`
+
+
+And, on another cmd:
+
+`curl -X POST http://localhost:4000/detect -H "Content-Type: application/json" -d "{\"output\":\"json\"}"`
+
+
+Sample output: 
+
+<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/ba5d54c3-a007-4f10-b4b0-6dce658ac646" />
+
+<img width="1917" height="1059" alt="image" src="https://github.com/user-attachments/assets/7fa6c641-96ea-4ed8-8bf4-5c117ce8cdc9" />
+
+
+
+
+
