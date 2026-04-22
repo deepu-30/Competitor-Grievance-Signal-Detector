@@ -2,226 +2,109 @@
   {
     "company": "HackerRank",
     "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/passive_income/comments/1sopl1p/tested_a_bunch_of_plr_sites_this_year_for_etsy/",
+    "source_url": "https://reddit.com/r/EntrepreneurRideAlong/comments/1ssps19/what_would_you_build_if_you_had_my_skills_and/",
     "source": "reddit",
     "matched_keywords": [
-      "expensive",
-      "outdated",
-      "bad experience"
+      "unreliable",
+      "confusing"
     ],
     "pain_points": [
       "reliability",
-      "usability",
-      "cost"
+      "usability"
     ],
-    "signal_score": 90,
-    "detected_at": "2026-04-18T06:25:25.279051+00:00",
-    "reason": "Negative feedback about HackerRank detected. Pain points: reliability, usability, cost"
-  },
-  {
-    "company": "HackerRank",
-    "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/u_I_Like_Half_Life_3/comments/1sooduh/older_version_of_information_on_half_life_3/",
-    "source": "reddit",
-    "matched_keywords": [
-      "expensive",
-      "frustrating",
-      "broken"
-    ],
-    "pain_points": [
-      "support",
-      "reliability",
-      "cost"
-    ],
-    "signal_score": 90,
-    "detected_at": "2026-04-18T06:25:25.283996+00:00",
-    "reason": "Negative feedback about HackerRank detected. Pain points: support, reliability, cost"
+    "signal_score": 70,
+    "detected_at": "2026-04-22T16:18:41.885248+00:00",
+    "reason": "Negative feedback about HackerRank detected. Pain points: reliability, usability"
   },
   {
     "company": "HireVue",
     "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/passive_income/comments/1sopl1p/tested_a_bunch_of_plr_sites_this_year_for_etsy/",
+    "source_url": "https://reddit.com/r/EntrepreneurRideAlong/comments/1ssps19/what_would_you_build_if_you_had_my_skills_and/",
     "source": "reddit",
     "matched_keywords": [
-      "expensive",
-      "outdated",
-      "bad experience"
+      "unreliable",
+      "confusing"
     ],
     "pain_points": [
       "reliability",
-      "usability",
-      "cost"
+      "usability"
     ],
-    "signal_score": 90,
-    "detected_at": "2026-04-18T06:25:34.214283+00:00",
-    "reason": "Negative feedback about HireVue detected. Pain points: reliability, usability, cost"
-  },
-  {
-    "company": "HireVue",
-    "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/u_I_Like_Half_Life_3/comments/1sooduh/older_version_of_information_on_half_life_3/",
-    "source": "reddit",
-    "matched_keywords": [
-      "expensive",
-      "frustrating",
-      "broken"
-    ],
-    "pain_points": [
-      "support",
-      "reliability",
-      "cost"
-    ],
-    "signal_score": 90,
-    "detected_at": "2026-04-18T06:25:34.217417+00:00",
-    "reason": "Negative feedback about HireVue detected. Pain points: support, reliability, cost"
+    "signal_score": 70,
+    "detected_at": "2026-04-22T16:18:53.477390+00:00",
+    "reason": "Negative feedback about HireVue detected. Pain points: reliability, usability"
   },
   {
     "company": "Codility",
     "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/passive_income/comments/1sopl1p/tested_a_bunch_of_plr_sites_this_year_for_etsy/",
+    "source_url": "https://reddit.com/r/EntrepreneurRideAlong/comments/1ssps19/what_would_you_build_if_you_had_my_skills_and/",
     "source": "reddit",
     "matched_keywords": [
-      "expensive",
-      "outdated",
-      "bad experience"
+      "unreliable",
+      "confusing"
     ],
     "pain_points": [
       "reliability",
-      "usability",
-      "cost"
+      "usability"
     ],
-    "signal_score": 90,
-    "detected_at": "2026-04-18T06:25:43.939422+00:00",
-    "reason": "Negative feedback about Codility detected. Pain points: reliability, usability, cost"
-  },
-  {
-    "company": "Codility",
-    "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/u_I_Like_Half_Life_3/comments/1sooduh/older_version_of_information_on_half_life_3/",
-    "source": "reddit",
-    "matched_keywords": [
-      "expensive",
-      "frustrating",
-      "broken"
-    ],
-    "pain_points": [
-      "support",
-      "reliability",
-      "cost"
-    ],
-    "signal_score": 90,
-    "detected_at": "2026-04-18T06:25:43.946423+00:00",
-    "reason": "Negative feedback about Codility detected. Pain points: support, reliability, cost"
+    "signal_score": 70,
+    "detected_at": "2026-04-22T16:19:03.268188+00:00",
+    "reason": "Negative feedback about Codility detected. Pain points: reliability, usability"
   },
   {
     "company": "Greenhouse",
     "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/passive_income/comments/1sopl1p/tested_a_bunch_of_plr_sites_this_year_for_etsy/",
+    "source_url": "https://reddit.com/r/EntrepreneurRideAlong/comments/1ssps19/what_would_you_build_if_you_had_my_skills_and/",
     "source": "reddit",
     "matched_keywords": [
-      "expensive",
-      "outdated",
-      "bad experience"
+      "unreliable",
+      "confusing"
     ],
     "pain_points": [
       "reliability",
-      "usability",
-      "cost"
+      "usability"
     ],
-    "signal_score": 90,
-    "detected_at": "2026-04-18T06:25:53.992073+00:00",
-    "reason": "Negative feedback about Greenhouse detected. Pain points: reliability, usability, cost"
+    "signal_score": 70,
+    "detected_at": "2026-04-22T16:19:13.258617+00:00",
+    "reason": "Negative feedback about Greenhouse detected. Pain points: reliability, usability"
   },
   {
     "company": "Lever",
     "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/passive_income/comments/1sopl1p/tested_a_bunch_of_plr_sites_this_year_for_etsy/",
+    "source_url": "https://reddit.com/r/EntrepreneurRideAlong/comments/1ssps19/what_would_you_build_if_you_had_my_skills_and/",
     "source": "reddit",
     "matched_keywords": [
-      "expensive",
-      "outdated",
-      "bad experience"
+      "unreliable",
+      "confusing"
     ],
     "pain_points": [
       "reliability",
-      "usability",
-      "cost"
+      "usability"
     ],
-    "signal_score": 90,
-    "detected_at": "2026-04-18T06:26:04.385821+00:00",
-    "reason": "Negative feedback about Lever detected. Pain points: reliability, usability, cost"
+    "signal_score": 70,
+    "detected_at": "2026-04-22T16:19:23.079379+00:00",
+    "reason": "Negative feedback about Lever detected. Pain points: reliability, usability"
   },
   {
     "company": "Workday",
     "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/passive_income/comments/1sopl1p/tested_a_bunch_of_plr_sites_this_year_for_etsy/",
+    "source_url": "https://reddit.com/r/EntrepreneurRideAlong/comments/1ssps19/what_would_you_build_if_you_had_my_skills_and/",
     "source": "reddit",
     "matched_keywords": [
-      "expensive",
-      "outdated",
-      "bad experience"
+      "unreliable",
+      "confusing"
     ],
     "pain_points": [
       "reliability",
-      "usability",
-      "cost"
+      "usability"
     ],
-    "signal_score": 90,
-    "detected_at": "2026-04-18T06:26:14.227012+00:00",
-    "reason": "Negative feedback about Workday detected. Pain points: reliability, usability, cost"
+    "signal_score": 70,
+    "detected_at": "2026-04-22T16:19:33.210734+00:00",
+    "reason": "Negative feedback about Workday detected. Pain points: reliability, usability"
   },
   {
     "company": "HackerRank",
     "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/SouthFLOrthodontist/comments/1sookv4/faster_results_perfect_accuracy_why_smilefx_ai/",
-    "source": "reddit",
-    "matched_keywords": [
-      "expensive",
-      "not worth"
-    ],
-    "pain_points": [
-      "cost"
-    ],
-    "signal_score": 60,
-    "detected_at": "2026-04-18T06:25:25.282048+00:00",
-    "reason": "Negative feedback about HackerRank detected. Pain points: cost"
-  },
-  {
-    "company": "HireVue",
-    "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/SouthFLOrthodontist/comments/1sookv4/faster_results_perfect_accuracy_why_smilefx_ai/",
-    "source": "reddit",
-    "matched_keywords": [
-      "expensive",
-      "not worth"
-    ],
-    "pain_points": [
-      "cost"
-    ],
-    "signal_score": 60,
-    "detected_at": "2026-04-18T06:25:34.216300+00:00",
-    "reason": "Negative feedback about HireVue detected. Pain points: cost"
-  },
-  {
-    "company": "Codility",
-    "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/SouthFLOrthodontist/comments/1sookv4/faster_results_perfect_accuracy_why_smilefx_ai/",
-    "source": "reddit",
-    "matched_keywords": [
-      "expensive",
-      "not worth"
-    ],
-    "pain_points": [
-      "cost"
-    ],
-    "signal_score": 60,
-    "detected_at": "2026-04-18T06:25:43.944480+00:00",
-    "reason": "Negative feedback about Codility detected. Pain points: cost"
-  },
-  {
-    "company": "HackerRank",
-    "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/GTM_Tips_Tricks/comments/1sops08/how_to_pass_utm_parameters_through_to_calendly/",
+    "source_url": "https://reddit.com/r/ukelectricians/comments/1sspjyk/sparks_doing_eicrs_pat_15_min_call_about_whats/",
     "source": "reddit",
     "matched_keywords": [
       "broken"
@@ -230,43 +113,13 @@
       "reliability"
     ],
     "signal_score": 50,
-    "detected_at": "2026-04-18T06:25:25.272923+00:00",
-    "reason": "Negative feedback about HackerRank detected. Pain points: reliability"
-  },
-  {
-    "company": "HackerRank",
-    "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/u_Standard_Skill_7573/comments/1sopf1a/the_coffee_mug_problem_in_retail_merchandising/",
-    "source": "reddit",
-    "matched_keywords": [
-      "bias"
-    ],
-    "pain_points": [
-      "bias"
-    ],
-    "signal_score": 50,
-    "detected_at": "2026-04-18T06:25:25.280048+00:00",
-    "reason": "Negative feedback about HackerRank detected. Pain points: bias"
-  },
-  {
-    "company": "HackerRank",
-    "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/AiAssistance/comments/1sooxex/ai_assistants_the_wikifirst_approach/",
-    "source": "reddit",
-    "matched_keywords": [
-      "outdated"
-    ],
-    "pain_points": [
-      "reliability"
-    ],
-    "signal_score": 50,
-    "detected_at": "2026-04-18T06:25:25.281048+00:00",
+    "detected_at": "2026-04-22T16:18:41.885705+00:00",
     "reason": "Negative feedback about HackerRank detected. Pain points: reliability"
   },
   {
     "company": "HireVue",
     "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/GTM_Tips_Tricks/comments/1sops08/how_to_pass_utm_parameters_through_to_calendly/",
+    "source_url": "https://reddit.com/r/ukelectricians/comments/1sspjyk/sparks_doing_eicrs_pat_15_min_call_about_whats/",
     "source": "reddit",
     "matched_keywords": [
       "broken"
@@ -275,43 +128,13 @@
       "reliability"
     ],
     "signal_score": 50,
-    "detected_at": "2026-04-18T06:25:34.212005+00:00",
-    "reason": "Negative feedback about HireVue detected. Pain points: reliability"
-  },
-  {
-    "company": "HireVue",
-    "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/u_Standard_Skill_7573/comments/1sopf1a/the_coffee_mug_problem_in_retail_merchandising/",
-    "source": "reddit",
-    "matched_keywords": [
-      "bias"
-    ],
-    "pain_points": [
-      "bias"
-    ],
-    "signal_score": 50,
-    "detected_at": "2026-04-18T06:25:34.215285+00:00",
-    "reason": "Negative feedback about HireVue detected. Pain points: bias"
-  },
-  {
-    "company": "HireVue",
-    "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/AiAssistance/comments/1sooxex/ai_assistants_the_wikifirst_approach/",
-    "source": "reddit",
-    "matched_keywords": [
-      "outdated"
-    ],
-    "pain_points": [
-      "reliability"
-    ],
-    "signal_score": 50,
-    "detected_at": "2026-04-18T06:25:34.215285+00:00",
+    "detected_at": "2026-04-22T16:18:53.477816+00:00",
     "reason": "Negative feedback about HireVue detected. Pain points: reliability"
   },
   {
     "company": "Codility",
     "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/GTM_Tips_Tricks/comments/1sops08/how_to_pass_utm_parameters_through_to_calendly/",
+    "source_url": "https://reddit.com/r/ukelectricians/comments/1sspjyk/sparks_doing_eicrs_pat_15_min_call_about_whats/",
     "source": "reddit",
     "matched_keywords": [
       "broken"
@@ -320,43 +143,13 @@
       "reliability"
     ],
     "signal_score": 50,
-    "detected_at": "2026-04-18T06:25:43.934422+00:00",
-    "reason": "Negative feedback about Codility detected. Pain points: reliability"
-  },
-  {
-    "company": "Codility",
-    "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/u_Standard_Skill_7573/comments/1sopf1a/the_coffee_mug_problem_in_retail_merchandising/",
-    "source": "reddit",
-    "matched_keywords": [
-      "bias"
-    ],
-    "pain_points": [
-      "bias"
-    ],
-    "signal_score": 50,
-    "detected_at": "2026-04-18T06:25:43.940425+00:00",
-    "reason": "Negative feedback about Codility detected. Pain points: bias"
-  },
-  {
-    "company": "Codility",
-    "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/AiAssistance/comments/1sooxex/ai_assistants_the_wikifirst_approach/",
-    "source": "reddit",
-    "matched_keywords": [
-      "outdated"
-    ],
-    "pain_points": [
-      "reliability"
-    ],
-    "signal_score": 50,
-    "detected_at": "2026-04-18T06:25:43.941432+00:00",
+    "detected_at": "2026-04-22T16:19:03.270114+00:00",
     "reason": "Negative feedback about Codility detected. Pain points: reliability"
   },
   {
     "company": "Greenhouse",
     "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/GTM_Tips_Tricks/comments/1sops08/how_to_pass_utm_parameters_through_to_calendly/",
+    "source_url": "https://reddit.com/r/ukelectricians/comments/1sspjyk/sparks_doing_eicrs_pat_15_min_call_about_whats/",
     "source": "reddit",
     "matched_keywords": [
       "broken"
@@ -365,43 +158,13 @@
       "reliability"
     ],
     "signal_score": 50,
-    "detected_at": "2026-04-18T06:25:53.987633+00:00",
-    "reason": "Negative feedback about Greenhouse detected. Pain points: reliability"
-  },
-  {
-    "company": "Greenhouse",
-    "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/u_Standard_Skill_7573/comments/1sopf1a/the_coffee_mug_problem_in_retail_merchandising/",
-    "source": "reddit",
-    "matched_keywords": [
-      "bias"
-    ],
-    "pain_points": [
-      "bias"
-    ],
-    "signal_score": 50,
-    "detected_at": "2026-04-18T06:25:53.993169+00:00",
-    "reason": "Negative feedback about Greenhouse detected. Pain points: bias"
-  },
-  {
-    "company": "Greenhouse",
-    "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/AiAssistance/comments/1sooxex/ai_assistants_the_wikifirst_approach/",
-    "source": "reddit",
-    "matched_keywords": [
-      "outdated"
-    ],
-    "pain_points": [
-      "reliability"
-    ],
-    "signal_score": 50,
-    "detected_at": "2026-04-18T06:25:53.993169+00:00",
+    "detected_at": "2026-04-22T16:19:13.259065+00:00",
     "reason": "Negative feedback about Greenhouse detected. Pain points: reliability"
   },
   {
     "company": "Lever",
     "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/GTM_Tips_Tricks/comments/1sops08/how_to_pass_utm_parameters_through_to_calendly/",
+    "source_url": "https://reddit.com/r/ukelectricians/comments/1sspjyk/sparks_doing_eicrs_pat_15_min_call_about_whats/",
     "source": "reddit",
     "matched_keywords": [
       "broken"
@@ -410,43 +173,13 @@
       "reliability"
     ],
     "signal_score": 50,
-    "detected_at": "2026-04-18T06:26:04.382824+00:00",
-    "reason": "Negative feedback about Lever detected. Pain points: reliability"
-  },
-  {
-    "company": "Lever",
-    "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/u_Standard_Skill_7573/comments/1sopf1a/the_coffee_mug_problem_in_retail_merchandising/",
-    "source": "reddit",
-    "matched_keywords": [
-      "bias"
-    ],
-    "pain_points": [
-      "bias"
-    ],
-    "signal_score": 50,
-    "detected_at": "2026-04-18T06:26:04.385821+00:00",
-    "reason": "Negative feedback about Lever detected. Pain points: bias"
-  },
-  {
-    "company": "Lever",
-    "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/AiAssistance/comments/1sooxex/ai_assistants_the_wikifirst_approach/",
-    "source": "reddit",
-    "matched_keywords": [
-      "outdated"
-    ],
-    "pain_points": [
-      "reliability"
-    ],
-    "signal_score": 50,
-    "detected_at": "2026-04-18T06:26:04.386823+00:00",
+    "detected_at": "2026-04-22T16:19:23.079825+00:00",
     "reason": "Negative feedback about Lever detected. Pain points: reliability"
   },
   {
     "company": "Workday",
     "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/GTM_Tips_Tricks/comments/1sops08/how_to_pass_utm_parameters_through_to_calendly/",
+    "source_url": "https://reddit.com/r/ukelectricians/comments/1sspjyk/sparks_doing_eicrs_pat_15_min_call_about_whats/",
     "source": "reddit",
     "matched_keywords": [
       "broken"
@@ -455,37 +188,7 @@
       "reliability"
     ],
     "signal_score": 50,
-    "detected_at": "2026-04-18T06:26:14.223616+00:00",
-    "reason": "Negative feedback about Workday detected. Pain points: reliability"
-  },
-  {
-    "company": "Workday",
-    "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/u_Standard_Skill_7573/comments/1sopf1a/the_coffee_mug_problem_in_retail_merchandising/",
-    "source": "reddit",
-    "matched_keywords": [
-      "bias"
-    ],
-    "pain_points": [
-      "bias"
-    ],
-    "signal_score": 50,
-    "detected_at": "2026-04-18T06:26:14.227012+00:00",
-    "reason": "Negative feedback about Workday detected. Pain points: bias"
-  },
-  {
-    "company": "Workday",
-    "signal_type": "competitor_grievance",
-    "source_url": "https://reddit.com/r/AiAssistance/comments/1sooxex/ai_assistants_the_wikifirst_approach/",
-    "source": "reddit",
-    "matched_keywords": [
-      "outdated"
-    ],
-    "pain_points": [
-      "reliability"
-    ],
-    "signal_score": 50,
-    "detected_at": "2026-04-18T06:26:14.228148+00:00",
+    "detected_at": "2026-04-22T16:19:33.212516+00:00",
     "reason": "Negative feedback about Workday detected. Pain points: reliability"
   }
 ]
